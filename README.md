@@ -50,7 +50,7 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
 ![Stars](https://img.shields.io/github/stars/boan-anbo/cite-non-english)
 ![Forks](https://img.shields.io/github/forks/boan-anbo/cite-non-english)
 
-- [Scite-zotero-plugin](https://github.com/scitedotai/scite-zotero-plugin) - - Add citations from Scite to Zotero.
+- [Scite-zotero-plugin](https://github.com/scitedotai/scite-zotero-plugin) - - Add supporting and contrasting citation counts to Zotero.
 
   ![Last Commit](https://img.shields.io/github/last-commit/scitedotai/scite-zotero-plugin)
 ![License](https://img.shields.io/github/license/scitedotai/scite-zotero-plugin)
